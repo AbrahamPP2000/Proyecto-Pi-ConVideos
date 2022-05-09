@@ -8,7 +8,8 @@ Diferente imagen de fondo.
 
 Imágenes con texto indicando la materia.
 
-![image](https://user-images.githubusercontent.com/97979648/167462656-0af18165-d459-4010-ac8c-9a0aed674c2b.png)
+![image](https://user-images.githubusercontent.com/97979648/167468580-79f82817-9e65-4d01-bd97-a0caf288fb8d.png)
+
 
 Cada una de las imágenes redirecciona a un video de YouTube.
 Aquí están las modificaciones del código. A cada imagen se le agregó un div con clase para definir los eventos.
